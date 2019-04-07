@@ -1,3 +1,6 @@
+#ifndef TREE_H
+#define TREE_H
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -28,3 +31,5 @@ bool isPass(char ch);
 bool isFunction(OBJECT type);
 
 bool isTerm(OBJECT type);
+
+#endif
