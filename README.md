@@ -10,7 +10,7 @@ ln, sqrt, sin, cos, tg, ctg, exp, arcsin, arccos, arctg, arcctg
 sin(x+cosx)  
   
 ### Ouput:  
-cos(x+cosx)*(1+(-1*sinx))  
+cos(x+cosx)\*(1+(-1\*sinx))  
 1: 0.00483344 0.00483344  
 2: -0.00118426 -0.00118426  
 3: -0.365218 -0.365218  
