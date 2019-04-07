@@ -21,7 +21,7 @@ cos(x+cosx)*(1+(-1*sinx))
 8: -5.51596e-06 -5.51596e-06  
 9: -0.13682 -0.13682  
   
-### Methods:  
+### Tree methods:    
 <strong>public:</strong>  
 &nbsp;void build(std::string) - build function tree  
 &nbsp;double evaluate(double) - evaluate function at value  
