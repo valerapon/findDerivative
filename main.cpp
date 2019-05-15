@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Tree.h"
+#include "headers/Tree.h"
 
 int main() {
 	try {
