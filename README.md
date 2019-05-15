@@ -10,7 +10,7 @@ User enter function. Program buid function tree and derivative tree. After that 
 <code>sin(x+cosx)</code>  
   
 ### Ouput:  
-```
+<code>  
 cos(x+cosx)*(1+(-1*sinx))  
 1: 0.00483344 0.00483344  
 2: -0.00118426 -0.00118426  
@@ -21,7 +21,7 @@ cos(x+cosx)*(1+(-1*sinx))
 7: 0.0342713 0.0342713  
 8: -5.51596e-06 -5.51596e-06  
 9: -0.13682 -0.13682  
-```  
+</code>  
 ### Tree methods:    
 <strong>public:</strong>  
 &nbsp;<code>void build(std::string)</code> - build function tree  
