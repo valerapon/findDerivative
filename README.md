@@ -4,7 +4,7 @@
 <code>make</code>   
   
 ### Functions:  
-ln, sqrt, sin, cos, tg, ctg, exp, arcsin, arccos, arctg, arcctg  
+<code>ln, sqrt, sin, cos, tg, ctg, exp, arcsin, arccos, arctg, arcctg</code>  
   
 ### Input:  
 <code>sin(x+cosx)</code>  
@@ -24,12 +24,12 @@ cos(x+cosx)*(1+(-1*sinx))
 ```  
 ### Tree methods:    
 <strong>public:</strong>  
-&nbsp;void build(std::string) - build function tree  
-&nbsp;double evaluate(double) - evaluate function at value  
-&nbsp;double evaluateDerivative(double) - evaluate derivative at value  
-&nbsp;void print() - print function  
+&nbsp;<code>void build(std::string)</code> - build function tree  
+&nbsp;<code>double evaluate(double)</code> - evaluate function at value  
+&nbsp;<code>double evaluateDerivative(double)</code> - evaluate derivative at value  
+&nbsp;<code>void print()</code> - print function  
 <strong>private:</strong>  
-&nbsp;void simplify() - make function more simple  
-&nbsp;void buildTree(std::vector<Node \*>) - create tree  
-&nbsp;void printRecursive(Node \*) - print tree using recursion  
-&nbsp;void specialPrint() - print tree like "Tree"  
+&nbsp;<code>void simplify()</code> - make function more simple  
+&nbsp;<code>void buildTree(std::vector<Node *>)</code> - create tree  
+&nbsp;<code>void printRecursive(Node *)</code> - print tree using recursion  
+&nbsp;<code>void specialPrint()</code> - print tree like "Tree"  
