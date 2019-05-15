@@ -2,7 +2,8 @@
   
 ### How to compile:  
 <code>make</code>   
-  
+### How to run:  
+<code>./bin/main</code>  
 ### Functions:  
 <code>ln, sqrt, sin, cos, tg, ctg, exp, arcsin, arccos, arctg, arcctg</code>  
   
