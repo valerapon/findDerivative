@@ -1,16 +1,17 @@
 # findDerivative  
   
 ### How to compile:  
-make  
+<code>make</code>   
   
 ### Functions:  
 ln, sqrt, sin, cos, tg, ctg, exp, arcsin, arccos, arctg, arcctg  
   
 ### Input:  
-sin(x+cosx)  
+<code>sin(x+cosx)</code>  
   
 ### Ouput:  
-cos(x+cosx)\*(1+(-1\*sinx))  
+```
+cos(x+cosx)*(1+(-1*sinx))  
 1: 0.00483344 0.00483344  
 2: -0.00118426 -0.00118426  
 3: -0.365218 -0.365218  
@@ -20,7 +21,7 @@ cos(x+cosx)\*(1+(-1\*sinx))
 7: 0.0342713 0.0342713  
 8: -5.51596e-06 -5.51596e-06  
 9: -0.13682 -0.13682  
-  
+```  
 ### Tree methods:    
 <strong>public:</strong>  
 &nbsp;void build(std::string) - build function tree  
