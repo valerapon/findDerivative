@@ -6,7 +6,8 @@
 <code>./bin/main</code>  
 ### Functions:  
 <code>ln, sqrt, sin, cos, tg, ctg, exp, arcsin, arccos, arctg, arcctg</code>  
-  
+### Description:   
+User enter function. Program buid function tree and derivatve tree. After that perform computing derivative using 2 methods (using derivative tree and find derivative in point without generation analytical derivative function) in nine different points from 1 to 9.   
 ### Input:  
 <code>sin(x+cosx)</code>  
   
